@@ -6,9 +6,6 @@
     - name: Email
       value: l.llamazares@lancaster.ac.uk
     - name: Website
-      value: nowheredifferentiable.com
-    - name: Languages
-      value: English (Native), Spanish (Native), French (B2), Mandarin (C1)
 
 - title: Education
   type: time_table
