@@ -46,15 +46,17 @@ The project is structured as follows, focusing on the main components that you w
 ```txt
 .
 ├── 📂 assets/: contains the assets that are displayed in the website
-│   └── 📂 json/
-    │   └── 📄 resume.json: CV in JSON format (https://jsonresume.org/)
+│   ├── 📂 css/: contains the CSS files
+│   ├── 📂 js/: contains the JavaScript files
+│   └── 📂 json/
+│       └── 📄 resume.json: CV in JSON format (https://jsonresume.org/)
 ├── 📂 _bibliography/
-│   └── 📄 papers.bib: bibliography in BibTeX format
+│   └── 📄 papers.bib: bibliography in BibTeX format
 ├── 📂 _books/: contains the bookshelf pages
 ├── 📄 _config.yml: the configuration file of the template
 ├── 📂 _data/: contains some of the data used in the template
-│   ├── 📄 cv.yml: CV in YAML format, used when assets/json/resume.json is not found
-│   ├── 📄 repositories.yml: users and repositories info in YAML format
+│   ├── 📄 cv.yml: CV in YAML format, used when assets/json/resume.json is not found
+│   ├── 📄 repositories.yml: users and repositories info in YAML format
 │   └── 📄 socials.yml: your social media and contact info in YAML format
 ├── 📂 _includes/: contains code parts that are included in the main HTML file
 │   └── 📄 news.liquid: defines the news section layout in the about page
