@@ -2,96 +2,101 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Liam Llamazares-Elias
+    - name: Email
+      value: l.llamazares@lancaster.ac.uk
+    - name: Website
+      value: nowheredifferentiable.com
     - name: Languages
-      value: English, German
+      value: English (Native), Spanish (Native), French (B2), Mandarin (C1)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Mathematical Modelling, Analysis and Computation
+      institution: University of Edinburgh, School of Mathematics
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - PhD with Integrated Study. Supervised by Prof. Finn Lindgren and Dr. Jonas Latz.
+    - title: MA in Mathematical Modelling
+      institution: University of Salamanca
+      year: 2020-2021
       description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 9.85/10"
+        - "Master's thesis: Mathematical Theory in Non-linear Diffusion Processes, The Porous Medium. Grade: 10/10 (Summa cum laude)"
+        - "Link to thesis: <a href='https://gredos.usal.es/handle/10366/150386'>here</a>"
+    - title: BSc in Mathematics
+      institution: University of Salamanca
+      year: 2016-2020
+      description:
+        - "GPA: 9.14/10"
+        - "Undergraduate thesis: Some Results on the Existence and Uniqueness of Solutions to the Navier-Stokes Equations. Grade: 10/10 (MH)"
+        - "Link to thesis: <a href='https://gredos.usal.es/bitstream/handle/10366/145629/TFG%20LIAM%20LLAMAZARES.pdf?sequence=1'>here</a>"
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Senior Research Associate
+      institution: Department of Mathematics and Statistics, Lancaster University
+      year: Sep. 2025 -- Aug. 2028
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Postdoctoral position within the EPSRC Hub in Probabilistic AI (ProbAI Hub).
+        - Supervised by Prof. Paul Fearnhead, and Dr. Chris Nemeth.
+    - title: Participant in Research Program
+      institution: Isaac Newton Institute for Mathematical Sciences, University of Cambridge
+      year: June 2023
       description:
-        - Description 1.
-        - Description 2.
+        - The Mathematical and Statistical Foundation of Future Data-Driven Engineering.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Publications and Submitted Manuscripts
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: A Parameterization of Anisotropic Gaussian Fields with Penalized Complexity Priors
+      year: 2024
+      description:
+        - "L. Llamazares-Elias, J. Latz, F. Lindgren. Under consideration at Journal of the American Statistical Association. <a href='https://arxiv.org/pdf/2409.02331'>arXiv</a>"
+    - title: "Data-driven approximation of Koopman operators and generators: Convergence rates and error bounds"
+      year: 2024
+      description:
+        - "L. Llamazares-Elias, S. Llamazares-Elias, J. Latz, S. Klus. Under consideration at Journal of Computational Dynamics. <a href='https://arxiv.org/pdf/2405.00539'>arXiv</a>"
+    - title: An Analysis of Contact Tracing Protocol in an Over-Dispersed SEIQR Covid-Like Disease
+      year: 2021
+      description:
+        - "L. Llamazares-Elias, S. Llamazares-Elias, A. Martín del Rey. Physica A: Statistical Mechanics and its Applications. <a href='https://doi.org/10.1016/j.physa.2021.126754'>DOI</a>"
 
-- title: Honors and Awards
+- title: Scholarships and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: MAC-MIGS PhD Scholarship
+      institution: University of Edinburgh, Maxwell Institute Graduate School
+      year: 2021-2025
+      description: Competitive fully funded PhD position.
+    - title: Collaboration Scholarship
+      institution: Department of Applied Mathematics, University of Salamanca
+      year: 2020-2021
+      description: Awarded by the Spanish Ministry of Education.
+    - title: Research Scholarship, Porous Medium Equation
+      institution: Institute of Theoretical Physics and Mathematics, University of Salamanca
+      year: 2020-2021
 
-- title: Academic Interests
-  type: nested_list
+- title: Teaching Experience
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Tutor of Statistical Methodology
+      institution: University of Edinburgh
+      year: 2023-2025
+    - title: Tutor of Applied Statistics
+      institution: University of Edinburgh
+      year: 2023-2024
 
-- title: Other Interests
+- title: Other Experience
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "2022--Present: Author of mathematics blog on PDE and stochastic analysis. <a href='https://nowheredifferentiable.com/'>nowheredifferentiable.com</a>"
+    - "2023-2024: Participation in reading group on Mean field games and interacting particle systems."
+    - "2022: Co-organizer of Reading Group on Malliavin Calculus at the University of Edinburgh."
+
+- title: Skills
+  type: list
+  contents:
+    - "Programming: Experienced in use of Python, R, C and Mathematica."
