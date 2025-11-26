@@ -258,7 +258,7 @@ display_categories: [] # these categories will be displayed on the front page of
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Llamazares Elias]
+  last_name: [Llamazares-Elias]
   first_name: [Liam, L.]
 
   style: apa
