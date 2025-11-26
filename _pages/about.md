@@ -32,3 +32,7 @@ I am a Senior Research Associate at the Department of Mathematics and Statistics
 I completed my PhD in Mathematical Modelling, Analysis and Computation at the University of Edinburgh in 2025, supervised by Prof. Finn Lindgren and Dr. Jonas Latz. My research interests include Stochastic Analysis, Partial Differential Equations, and Probabilistic Machine Learning.
 
 I also run a mathematics blog, [nowheredifferentiable.com](https://nowheredifferentiable.com/), where I discuss topics in PDE and stochastic analysis.
+
+I organize the CSML (Computational Statistics and Machine Learning) reading group.
+
+Outside of math, I enjoy playing football, tennis, chess, and other board games with my friends. I also enjoy reading, especially fantasy, and learning languages, sometimes simultaneously.
