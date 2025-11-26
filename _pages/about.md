@@ -27,12 +27,24 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Senior Research Associate at the Department of Mathematics and Statistics, Lancaster University, working within the EPSRC Hub in Probabilistic AI (ProbAI Hub). I am supervised by Prof. Paul Fearnhead and Dr. Chris Nemeth.
+I am a **Senior Research Associate** in the Department of Mathematics and Statistics at **Lancaster University**. I work within the **EPSRC Hub in Probabilistic AI (ProbAI Hub)**, collaborating with [Prof. Chris Nemeth](https://www.lancaster.ac.uk/staff/chris-nemeth/) and [Prof. Paul Fearnhead](https://www.lancaster.ac.uk/staff/paul-fearnhead/).
 
-I completed my PhD in Mathematical Modelling, Analysis and Computation at the University of Edinburgh in 2025, supervised by Prof. Finn Lindgren and Dr. Jonas Latz. My research interests include Stochastic Analysis, Partial Differential Equations, and Probabilistic Machine Learning.
+## Research Interests
 
-I also run a mathematics blog, [nowheredifferentiable.com](https://nowheredifferentiable.com/), where I discuss topics in PDE and stochastic analysis.
+My research interests lie at the intersection of analysis and stochastics. I focus on **Partial Differential Equations (PDEs)**, **Stochastic PDEs**, **Optimal Transport**, and **Bayesian Inference**.
 
-I organize the CSML (Computational Statistics and Machine Learning) reading group.
+I am particularly interested in viewing **sampling as an optimization problem** through the lens of **gradient flows**.
 
-Outside of math, I enjoy playing football, tennis, chess, and other board games with my friends. I also enjoy reading, especially fantasy, and learning languages, sometimes simultaneously.
+## Education
+
+I obtained my **PhD in Mathematical Modelling, Analysis and Computation** from the University of Edinburgh in 2025, under the supervision of Prof. Finn Lindgren and Dr. Jonas Latz. Prior to that, I completed my undergraduate and Master's degrees in Mathematics at the University of Salamanca.
+
+## Community & Writing
+
+I organize the [**CSML (Computational Statistics and Machine Learning) Reading Group**](https://lu-csml.github.io/) at Lancaster University.
+
+I also maintain a mathematics blog, [**Nowhere Differentiable**](/blog/), where I discuss topics I find interesting in analysis and stochastics.
+
+## Personal
+
+Outside of mathematics, I enjoy playing football, tennis, chess and other board games (I will never say no to a game of _Dune_). I also enjoy reading (especially fantasy) and learning languages, occasionally attempting both at once.
