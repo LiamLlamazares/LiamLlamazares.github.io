@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the Lancaster University as a senior research assistant.
+Joined the Lancaster University as a Senior Research Associate.
