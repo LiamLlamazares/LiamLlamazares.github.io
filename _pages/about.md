@@ -37,6 +37,6 @@ I am particularly interested in viewing **sampling as an optimization problem** 
 
 ## Community & Personal
 
-I organize the [**CSML (Computational Statistics and Machine Learning) Reading Group**](https://lu-csml.github.io/) at Lancaster University. I also maintain a mathematics blog, [**Nowhere Differentiable**](/blog/), where I discuss topics I find interesting in analysis and stochastics.
+I organize the [**CSML (Computational Statistics and Machine Learning) Reading Group**](https://lu-csml.github.io/) at Lancaster University. I also maintain a mathematics blog, [**nowheredifferentiable**](nowheredifferentiable.com), where I discuss topics I find interesting in analysis and stochastics.
 
 Outside of mathematics, I enjoy playing football, tennis, chess and other board games (I will _never_ say no to a game of _Dune_). I also enjoy reading (especially fantasy) and learning languages, occasionally attempting both at once.
