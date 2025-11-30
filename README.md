@@ -31,7 +31,22 @@ Running locally allows you to see changes instantly as you save files, without w
 
 The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/main/LICENSE).
 
-## Project Structure & Restoration
+## Project Structure
+
+Here is an overview of the key folders and files in your blog:
+
+- **`_config.yml`**: The main configuration file. Contains settings for your site title, email, description, and plugins.
+- **`_config_local.yml`**: A local override file for Windows. It disables heavy plugins (like ImageMagick) to ensure fast local development.
+- **`Gemfile`**: Lists the Ruby gems (libraries) required to build the site.
+- **`_news/`**: Contains markdown files for news announcements. Add new files here to create news items.
+- **`_pages/`**: Contains markdown files for standalone pages like `about.md`, `cv.md`, etc.
+- **`_bibliography/`**: Stores your `.bib` files for publications.
+- **`_data/`**: Contains YAML files for site data, such as social media links and repository settings.
+- **`_layouts/`**: HTML templates that define the look of different page types (post, page, cv, etc.).
+- **`_includes/`**: Reusable HTML snippets (headers, footers, navigation) included in layouts.
+- **`assets/`**: Stores static files like images (`assets/img/`), CSS, JavaScript, and PDFs (`assets/pdf/`).
+
+## Restoration
 
 To keep this project clean, several demo files and development tools from the original `al-folio` theme have been removed.
 
