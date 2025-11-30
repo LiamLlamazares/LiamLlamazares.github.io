@@ -40,4 +40,4 @@ I am particularly interested in viewing **sampling as an optimization problem** 
 I organize the [**CSML (Computational Statistics and Machine Learning) Reading Group**](https://lu-csml.github.io/) at Lancaster University. I also maintain a mathematics blog, [**nowheredifferentiable**](https://nowheredifferentiable.com), where I discuss topics I find interesting in analysis and stochastics.
 
 ## Personal
-Outside of mathematics, I enjoy playing football, tennis, chess and other board games. I will _never_ say no to a game of _Dune_ and shared with my brother the number 2 global ranking on _MTGA_. I also enjoy reading (especially fantasy) and learning languages, occasionally attempting both at once.
+Outside of mathematics, I enjoy playing football, tennis, chess and other board games (I will _never_ say no to a game of _Dune_). I also achieved a number 2 global ranking on _MTGA_ with my brother. I also enjoy reading (especially fantasy) and learning languages, occasionally attempting both at once.
