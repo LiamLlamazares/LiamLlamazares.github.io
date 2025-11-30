@@ -7,12 +7,14 @@ This is the source code for my personal website and blog, based on the [al-folio
 To compile and run the blog locally, follow these steps:
 
 1.  **Install Prerequisites:**
-    *   **Ruby:** Install Ruby (version 2.7 or higher). On Windows, use [RubyInstaller](https://rubyinstaller.org/). Ensure you check the option to add Ruby to your PATH.
-    *   **Bundler:** Open your terminal and run: `gem install bundler`
-    *   **Node.js:** Install Node.js from [nodejs.org](https://nodejs.org/).
+
+    - **Ruby:** Install Ruby (version 2.7 or higher). On Windows, use [RubyInstaller](https://rubyinstaller.org/). Ensure you check the option to add Ruby to your PATH.
+    - **Bundler:** Open your terminal and run: `gem install bundler`
+    - **Node.js:** Install Node.js from [nodejs.org](https://nodejs.org/).
 
 2.  **Install Dependencies:**
     Navigate to the project directory in your terminal and run:
+
     ```bash
     bundle install
     npm install
@@ -51,10 +53,11 @@ Here is an overview of the key folders and files in your blog:
 To keep this project clean, several demo files and development tools from the original `al-folio` theme have been removed.
 
 **Removed Content:**
-*   **Demo Pages:** Example pages like `about_einstein.md`, `teaching.md`, etc.
-*   **Demo Assets:** `lighthouse_results`, `readme_preview`.
-*   **Dev Tools:** Docker configuration (`Dockerfile`, `docker-compose.yml`), `.devcontainer`.
-*   **Theme Docs:** `CONTRIBUTING.md`, `FAQ.md`, `INSTALL.md`, `CUSTOMIZE.md`.
+
+- **Demo Pages:** Example pages like `about_einstein.md`, `teaching.md`, etc.
+- **Demo Assets:** `lighthouse_results`, `readme_preview`.
+- **Dev Tools:** Docker configuration (`Dockerfile`, `docker-compose.yml`), `.devcontainer`.
+- **Theme Docs:** `CONTRIBUTING.md`, `FAQ.md`, `INSTALL.md`, `CUSTOMIZE.md`.
 
 **How to Restore:**
 If you need any of these files back (e.g., to reference the original documentation or use Docker), you can find them in the [original al-folio repository](https://github.com/alshedivat/al-folio). Simply download the specific file you need and place it back in your project directory.

@@ -42,7 +42,7 @@ env/
 .env/
 
 # Editors
-.vscode/
+# .vscode/
 .idea/
 *.swp
 *~
