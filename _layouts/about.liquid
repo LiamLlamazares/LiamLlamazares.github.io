@@ -35,6 +35,11 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
+        {% if site.data.socials.email %}
+          <div class="more-info" style="margin-top: 10px;">
+            <a href="mailto:{{ site.data.socials.email }}">{{ site.data.socials.email }}</a>
+          </div>
+        {% endif %}
       </div>
     {% endif %}
 
