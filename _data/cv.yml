@@ -6,6 +6,7 @@
     - name: Email
       value: l.llamazares@lancaster.ac.uk
     - name: Website
+      value: https://liamllamazares.github.io
 
 - title: Education
   type: time_table

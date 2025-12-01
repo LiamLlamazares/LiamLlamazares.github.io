@@ -29,22 +29,22 @@ latest_posts:
 
 I am a **Senior Research Associate** in the Department of Mathematics and Statistics at **Lancaster University**. I work within the **EPSRC Hub in Probabilistic AI (ProbAI Hub)**, collaborating with Prof. [Chris Nemeth](https://www.lancaster.ac.uk/staff/chris-nemeth/) and Prof. [Paul Fearnhead](https://www.lancaster.ac.uk/staff/paul-fearnhead/).
 
-Previously, I obtained my **PhD in Mathematical Modelling, Analysis and Computation** from the University of Edinburgh in 2025, under the supervision of Prof. [Finn Lindgren](https://edwebprofiles.ed.ac.uk/profile/professor-finn-lindgren) and Dr. [Jonas Latz](https://www.google.com/search?q=jonas+latz&sourceid=chrome&ie=UTF-8). Prior to that, I completed my undergraduate and Master's degrees in Mathematics at the University of Salamanca.
+Previously, I obtained my **PhD in Mathematical Modelling, Analysis and Computation** from the University of Edinburgh in 2025, under the supervision of Prof. [Finn Lindgren](https://edwebprofiles.ed.ac.uk/profile/professor-finn-lindgren) and Dr. [Jonas Latz](https://latzplacian.org). Prior to that, I completed my undergraduate and Master's degrees in Mathematics at the University of Salamanca.
 
 ## Research Interests
 
 My research lies at the intersection of **analysis** and **stochastics**, with a particular focus on:
 
-- **Partial Differential Equations (PDEs)** & **Stochastic PDEs**
-- **Optimal Transport**
-- **Bayesian Inference**
-- **Sampling as Optimization** (via gradient flows)
+- <i class="fas fa-calculator"></i> **Partial Differential Equations (PDEs)** & **Stochastic PDEs**
+- <i class="fas fa-route"></i> **Optimal Transport**
+- <i class="fas fa-chart-line"></i> **Bayesian Inference**
+- <i class="fas fa-search"></i> **Sampling as Optimization** (via gradient flows)
 
 ## Community
 
 I organize the [**CSML (Computational Statistics and Machine Learning) Reading Group**](https://lu-csml.github.io/) at Lancaster University.
 
-I also maintain a mathematics blog, [**nowheredifferentiable**](https://nowheredifferentiable.com), where I discuss topics I find interesting in analysis and stochastics.
+I also maintain a mathematics blog, [**nowheredifferentiable.com**](https://nowheredifferentiable.com), where I discuss topics I find interesting in analysis and stochastics.
 
 ## Personal
 

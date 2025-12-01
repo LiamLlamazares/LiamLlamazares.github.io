@@ -3,7 +3,7 @@
 # the socials will be displayed in the order they are defined here
 
 # arxiv_id: # your arXiv author ID
-cv_pdf: /assets/pdf/CV_Liam.pdf # path to your CV PDF file
+# cv_pdf: /assets/pdf/CV_Liam.pdf # path to your CV PDF file
 email: l.llamazares@lancaster.ac.uk # your email address
 github_username: liamllamazares
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
