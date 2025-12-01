@@ -35,10 +35,10 @@ Previously, I obtained my **PhD in Mathematical Modelling, Analysis and Computat
 
 My research lies at the intersection of **analysis** and **stochastics**, with a particular focus on:
 
-- <i class="fas fa-calculator"></i> **Partial Differential Equations (PDEs)** & **Stochastic PDEs**
-- <i class="fas fa-route"></i> **Optimal Transport**
-- <i class="fas fa-chart-line"></i> **Bayesian Inference**
-- <i class="fas fa-search"></i> **Sampling as Optimization** (via gradient flows)
+- **Partial Differential Equations (PDEs)** & **Stochastic PDEs**
+- **Optimal Transport**
+- **Bayesian Inference**
+- **Sampling as Optimization** (via gradient flows)
 
 ## Community
 
