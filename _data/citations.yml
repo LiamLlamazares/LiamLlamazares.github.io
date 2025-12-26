@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2025-11-25'
+  last_updated: '2025-12-26'
 papers:
   nW7-c62TwJ0C:IjCSPb-OGe4C:
-    citations: 6
+    citations: 7
     title: 'Data-driven approximation of Koopman operators and generators: Convergence rates and error bounds'
     year: '2024'
   nW7-c62TwJ0C:Tyk-4Ss8FVUC:
@@ -18,6 +18,6 @@ papers:
     title: Some results on the existence and uniqueness of solutions to the navier-stokes equations
     year: '2020'
   nW7-c62TwJ0C:zYLM7Y9cAGgC:
-    citations: 3
+    citations: 4
     title: A parameterization of anisotropic Gaussian fields with penalized complexity priors
     year: '2024'
