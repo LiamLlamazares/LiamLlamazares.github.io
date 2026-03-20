@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-21'
+  last_updated: '2026-03-20'
 papers:
   nW7-c62TwJ0C:IjCSPb-OGe4C:
     citations: 9
@@ -9,6 +9,10 @@ papers:
     citations: 0
     title: 'Mathematical Theory in non-linear Diffusion Processes: The Porous Medium Equation'
     year: '2021'
+  nW7-c62TwJ0C:W7OEmFMy1HYC:
+    citations: 1
+    title: Parametric Phi-Divergence-Based Distributionally Robust Optimization for Insurance Pricing
+    year: '2025'
   nW7-c62TwJ0C:d1gkVwhDpl0C:
     citations: 11
     title: An analysis of contact tracing protocol in an over-dispersed SEIQR Covid-like disease
