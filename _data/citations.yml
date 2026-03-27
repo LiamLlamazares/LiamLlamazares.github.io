@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-27'
 papers:
   nW7-c62TwJ0C:IjCSPb-OGe4C:
-    citations: 9
+    citations: 10
     title: 'Data-driven approximation of Koopman operators and generators: Convergence rates and error bounds'
     year: '2024'
   nW7-c62TwJ0C:Tyk-4Ss8FVUC:
@@ -13,15 +13,27 @@ papers:
     citations: 1
     title: Parametric Phi-Divergence-Based Distributionally Robust Optimization for Insurance Pricing
     year: '2025'
+  nW7-c62TwJ0C:WF5omc3nYNoC:
+    citations: 0
+    title: 'Anisotropic and Non-Stationary Gaussian Fields: Parameterizations, Priors, and Operators'
+    year: '2025'
+  nW7-c62TwJ0C:YsMSGLbcyi4C:
+    citations: 0
+    title: 'PDEs 7: Parabolic PDE, well-posedness and regularity'
+    year: '2024'
   nW7-c62TwJ0C:d1gkVwhDpl0C:
     citations: 11
     title: An analysis of contact tracing protocol in an over-dispersed SEIQR Covid-like disease
     year: '2022'
+  nW7-c62TwJ0C:eQOLeE2rZwMC:
+    citations: 0
+    title: Parabolic PDE, well-posedness and regularity
+    year: '2024'
   nW7-c62TwJ0C:u-x6o8ySG0sC:
     citations: 0
     title: Some results on the existence and uniqueness of solutions to the navier-stokes equations
     year: '2020'
   nW7-c62TwJ0C:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: A parameterization of anisotropic Gaussian fields with penalized complexity priors
     year: '2024'
