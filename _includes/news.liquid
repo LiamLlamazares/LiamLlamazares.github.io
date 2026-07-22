@@ -9,12 +9,23 @@
     >
       <table class="table table-sm table-borderless">
         {% assign news = site.news | reverse %}
+        {% if include.days %}
+          {% assign window_seconds = include.days | times: 86400 %}
+          {% assign current_timestamp = site.time | date: '%s' | plus: 0 %}
+          {% assign cutoff_timestamp = current_timestamp | minus: window_seconds %}
+        {% endif %}
         {% if include.limit and page.announcements.limit %}
           {% assign news_limit = page.announcements.limit %}
         {% else %}
           {% assign news_limit = news_size %}
         {% endif %}
         {% for item in news limit: news_limit %}
+          {% if include.days %}
+            {% assign item_timestamp = item.date | date: '%s' | plus: 0 %}
+            {% if item_timestamp < cutoff_timestamp %}
+              {% continue %}
+            {% endif %}
+          {% endif %}
           <tr>
             <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
             <td>
