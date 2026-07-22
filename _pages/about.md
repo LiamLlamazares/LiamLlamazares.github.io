@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  scrollable: false
   limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
@@ -39,6 +39,10 @@ My research lies at the intersection of **analysis** and **stochastics**, with a
 - **Optimal Transport**
 - **Bayesian Inference**
 - **Sampling as Optimization** (via gradient flows)
+
+<!--## Current Research
+
+I currently work on physically informed probabilistic models for non-stationary spatial data; gradient-flow, diffusion, and Schrödinger-bridge methods for sampling and generation; stochastic and anisotropic optimal transport; and data-driven approximation of transfer and Stein operators.-->
 
 ## Community
 
